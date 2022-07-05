@@ -1,0 +1,5 @@
+1.Run Server
+run Command->cd Server->go run .
+2.Run Client
+run Command->cd Client->go run . Maien
+run Command->cd Client->go run . Peisia
